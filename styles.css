@@ -1,0 +1,19 @@
+div {
+    margin: 5px;
+}
+h1 {
+    color: blue;
+}
+#third > span {
+    visibility: hidden;
+}
+.right > p {
+    display: none;
+}
+#sixth > img {
+    width: 300;
+    height: 300;
+}
+p {
+    color: red;
+}
